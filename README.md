@@ -1,16 +1,10 @@
 # ecomerce_application_1
 
-A new Flutter project.
+My first Flutter Project
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img width="1920" height="1080" alt="Pt" src="https://github.com/user-attachments/assets/827b2ce7-1bb2-441f-b5c8-72fe1af88c3c" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
